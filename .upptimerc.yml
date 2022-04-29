@@ -13,7 +13,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /hs-scene-status
   logoUrl: https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/pageLogo-350.png
-  name: Upptime
+  name: HS-Scene Status
   introTitle: "**HS-Scene** Status Info."
   introMessage: "Hier kannst du den aktuellen Status unseres Forums sehen"
 
