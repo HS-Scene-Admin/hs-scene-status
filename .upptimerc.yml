@@ -10,8 +10,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /hs-scene-status
+  cname: status.hs-scene.to
+  # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/pageLogo-350.png
   name: HS-Scene Status
   introTitle: "**HS-Scene** Status Info."
