@@ -18,6 +18,7 @@ status-website:
   introMessage: "Hier kannst du den aktuellen Status unseres Forums sehen"
 
 i18n:
+  allSystemsOperational: Das Forum ist online!
   footer: Besuche uns unter [HS-Scene.to](https://hs-scene.to/)
 
 workflowSchedule:
