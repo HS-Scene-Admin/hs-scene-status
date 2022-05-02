@@ -17,5 +17,8 @@ status-website:
   introTitle: "**HS-Scene** Status Info"
   introMessage: "Hier kannst du den aktuellen Status unseres Forums sehen"
 
+i18n:
+  footer: Besuche uns unter [HS-Scene.to](https://hs-scene.to/)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
