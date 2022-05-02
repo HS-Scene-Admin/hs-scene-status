@@ -1,8 +1,8 @@
 [
   {
     "name": "HS-Scene.to",
-    "url": "https://www.hs-scene.to",
-    "icon": "https://favicons.githubusercontent.com/www.hs-scene.to",
+    "url": "https://www.hs-scene.to/status.php",
+    "icon": "https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/favicon.gif",
     "slug": "hs-scene-to",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 760,
-    "timeWeek": 795,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 763,
+    "timeDay": 618,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   }
 ]
