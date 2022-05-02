@@ -4,8 +4,8 @@ repo: hs-scene-status # The name of this repository
 
 sites:
   - name: HS-Scene.to
-    url: https://www.hs-scene.to
-
+    url: https://www.hs-scene.to/status.php
+    icon: https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/favicon.gif
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
