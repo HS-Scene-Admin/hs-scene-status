@@ -14,7 +14,7 @@ status-website:
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/pageLogo-350.png
   name: HS-Scene Status
-  introTitle: "**HS-Scene** Status Info."
+  introTitle: "**HS-Scene** Status Info"
   introMessage: "Hier kannst du den aktuellen Status unseres Forums sehen"
 
 # Upptime also supports notifications, assigning issues, and more
