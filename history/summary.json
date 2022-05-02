@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HS-Scene.to",
+    "url": "https://www.hs-scene.to/status.php",
+    "icon": "https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/favicon.gif",
+    "slug": "hs-scene-to",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 713,
+    "timeDay": 540,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
+    "dailyMinutesDown": {}
+  }
+]
