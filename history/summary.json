@@ -4,7 +4,7 @@
     "url": "https://www.hs-scene.to",
     "icon": "https://raw.githubusercontent.com/HS-Scene-Admin/hs-scene-status/master/assets/favicon.gif",
     "slug": "hs-scene-to",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 498,
     "timeYear": 514,
     "dailyMinutesDown": {
+      "2022-11-14": 0,
       "2022-10-21": 330,
       "2022-10-20": 209,
       "2022-09-15": 638,
